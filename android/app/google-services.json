@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "432868998592",
+    "firebase_url": "https://cevsevflutter.firebaseio.com",
+    "project_id": "cevsevflutter",
+    "storage_bucket": "cevsevflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432868998592:android:6bcce2faa3eefc247f9c25",
+        "android_client_info": {
+          "package_name": "com.erenyarar.cevsev01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432868998592-kls8jhsm3f1q0fbb0dgmpges69dgfln0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.erenyarar.cevsev01",
+            "certificate_hash": "8b88adb8307017e928456a2bcae9bcaba9f0e679"
+          }
+        },
+        {
+          "client_id": "432868998592-qab036vtdl986lpilcmso6kir0jje044.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiN0illMr3r-t-1R_We5Wev-BRIP8LgV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432868998592-qab036vtdl986lpilcmso6kir0jje044.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
